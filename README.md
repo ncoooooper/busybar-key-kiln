@@ -22,7 +22,7 @@ A keyboard shortcut counts as keyboard activity, while pasting a paragraph can a
 
 ## Example from the emulator
 
-The two sample totals cover different types of work. Subtracting the 150 characters from 240 keys would not tell you how many shortcuts were used. Only aggregate counts and active minutes are needed by the companion. Synthetic daily input aggregates in the collector formats.
+The two sample totals cover different types of work. Subtracting the 150 characters from 240 keys would not tell you how many shortcuts were used. Only aggregate counts and active minutes are needed by the companion. The two collectors’ daily file formats supplied the sample totals.
 
 ## Set up the source
 
