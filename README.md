@@ -4,6 +4,20 @@ Separate daily physical key presses from characters entered in an opt-in writing
 
 A keyboard shortcut counts as keyboard activity, while pasting a paragraph can add a lot of writing with a single shortcut. Key Kiln keeps these two counts on separate pages.
 
+## Screen transitions
+
+Switch between keystrokes and entered text. Each figure keeps its place below the label.
+
+![Key Kiln front display. Switch between keystrokes and entered text. Each figure keeps its place below the label.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Key Kiln rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Compare pressing keys with entering text
 
 1. Start the system counter and, for a writing session, the separate writing pad. Configure both output files.
@@ -42,6 +56,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
