@@ -4,6 +4,6 @@
   "name": "Key Kiln",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Key Kiln",
+  "description": "Separate daily physical key presses from characters entered in an opt-in writing pad.",
   "author": "ncoooooper"
 }

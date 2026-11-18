@@ -1,0 +1,40 @@
+{
+  "id": "BB-022",
+  "source": "Synthetic daily input aggregates in the collector formats.",
+  "scenario": "Displayed 240 system key presses and switched to the distinct editor character count of 150. No typed text was transmitted.",
+  "keys": [
+    "up",
+    "down",
+    "ok"
+  ],
+  "frames": 54,
+  "distinct_frames": 13,
+  "exit": "App io.ncoooooper.keykiln exited: finished; heap peak 81.7 of 128 KiB",
+  "sha256": "8fbf5209d7d31feb4785654637e16a7b17fd7d72eb1cdc182b5c7b0e9788dac3",
+  "pages": [
+    {
+      "caption": "KEY PRESSES",
+      "value": "240",
+      "lines": [
+        "Mac session key-downs",
+        "3 active minutes"
+      ]
+    },
+    {
+      "caption": "CHARACTERS",
+      "value": "150",
+      "lines": [
+        "Explicit writer field",
+        "2 active minutes"
+      ]
+    }
+  ],
+  "initial": {
+    "caption": "KEY PRESSES",
+    "value": "240",
+    "lines": [
+      "Mac session key-downs",
+      "3 active minutes"
+    ]
+  }
+}

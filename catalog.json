@@ -1,0 +1,6 @@
+{
+  "category": "productivity",
+  "short_description": "Separate daily physical key presses from characters entered in an opt-in writing pad.",
+  "description": "Separate daily physical key presses from characters entered in an opt-in writing pad. Run swift companion/keys.swift ~/key-counts.json for system-wide aggregate key-down counts. It reads the WindowServer event counter only. For characters, run python3 companion/writer.py ~/character-counts.json using a Python installation with Tk. Only text inserted in that visible writer counts, including paste. Deletion leaves the cumulative typed count intact. The writer stores counts and minute numbers only. Set key_file and character_file to the same paths.",
+  "changelog": "First public version."
+}
