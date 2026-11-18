@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.keykiln exited: finished; heap peak 81.7 of 128 KiB",
-  "sha256": "debd1a4b40c1200e58e333f640c9a35261e3e58eb5eee7419122e1995613dc21",
+  "sha256": "2102ebb7e582a3824d737264c956c5b71e603010c21b3e94dabe79492725a94d",
   "pages": [
     {
       "caption": "KEY PRESSES",
@@ -51,9 +51,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      2,
+      2
     ],
-    "exit": "App io.btype.keykiln exited: finished; heap peak 87.3 of 128 KiB"
+    "exit": "App io.btype.keykiln exited: finished; heap peak 85.7 of 128 KiB"
   }
 }

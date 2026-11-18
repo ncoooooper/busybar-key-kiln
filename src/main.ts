@@ -5,10 +5,6 @@ instrument({
   "primary": "Key Kiln",
   "accent": "#EBA76D",
   "cadence": 2500,
-  "motion": {
-    "motif": "stations",
-    "color": "#EBA76D",
-    "shine": "#FFF2D6"
-  },
+  "motion": {enabled:false},
   "setup": "Start companion/serve.py"
 });
