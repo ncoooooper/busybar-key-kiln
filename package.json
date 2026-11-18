@@ -1,7 +1,7 @@
 {
   "name": "busybar-key-kiln",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Separate daily physical key presses from characters entered in an opt-in writing pad.",
   "author": "ncoooooper",
   "type": "module",
